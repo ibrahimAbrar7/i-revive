@@ -19,7 +19,7 @@ export const treatmentPlansData = [
               >
                 ← Back to All Plans
               </Link>
-              <h1 className="mt-4 text-5xl font-extrabold text-gray-900 leading-tight">
+              <h1 className="mt-4 text-3xl md:text-5xl font-extrabold text-gray-900 leading-tight">
                 Sunnah Basic
               </h1>
               <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
